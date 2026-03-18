@@ -1,15 +1,12 @@
-<h3 align="center">Hello there, I'm Daniel 👋</h3>
+<h3 align="center">Hello there, I'm Goncalo 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/daniel-lawson-b9525a237" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/lawblaze4" title="HackerRank Profile"><img width="22" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"> Twitter</a></code>
-  <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code> -->
-  <code><a href="https://www.instagram.com/lawbl_aze/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="linkedin.com/in/gonçalo-pereira-83bab83b7" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
  <div style="background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); padding: 20px; max-width: 600px; margin: 0 auto;">
         <h1 style="color: #333;">👋 Hey there!</h1>
-        <p style="color: #666;">I'm <strong>Daniel Lawson</strong>, a passionate Software Developer 💻, specializing in web and mobile development. I thrive on crafting dynamic and user-centric experiences using the power of code.</p>
+        <p style="color: #666;">I'm <strong>Goncalo Pereira</strong>, a passionate Software Developer 💻, specializing in web and mobile development. I thrive on crafting dynamic and user-centric experiences using the power of code.</p>
         <h2 style="color: #333;">🌐 Web Development</h2>
         <p style="color: #666;">My playground consists of <strong>JavaScript</strong> and <strong>TypeScript</strong>, where I build interactive web applications that seamlessly blend creativity and functionality. Whether it's creating responsive web interfaces with <strong>React</strong> ⚛️, fine-tuning server-side logic with <strong>Node.js</strong> 🚀, or diving deep into the world of <strong>TypeScript</strong> for type-safe awesomeness, I love pushing the web's boundaries.</p>
         <h2 style="color: #333;">📱 Mobile Development</h2>
